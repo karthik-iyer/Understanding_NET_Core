@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Globomantics.2057013270.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="bundleconfig.json" t="Include" />
+      <e p="Controllers" t="Include">
+        <e p="ConferenceController.cs" t="Include" />
+        <e p="ProposalController.cs" t="Include" />
+      </e>
+      <e p="Globomantics.csproj" t="IncludeRecursive" />
+      <e p="Globomantics.sln" t="IncludeFlat" />
+      <e p="node_modules/bootstrap" t="IncludeRecursive" />
+      <e p="node_modules/jquery" t="IncludeRecursive" />
+      <e p="node_modules/popper.js" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Globomantics.AssemblyInfo.cs" t="Include" />
+            <e p="Globomantics.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="Conference" t="Include">
+          <e p="Add.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Proposal" t="Include">
+          <e p="Add.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="ConferenceMemoryService.cs" t="Include" />
+        <e p="IConferenceService.cs" t="Include" />
+        <e p="IProposalService.cs" t="Include" />
+        <e p="ProposalMemoryService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Shared.deps.json" t="Include" />
+              <e p="Shared.dll" t="Include" />
+              <e p="Shared.pdb" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ConferenceModel.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Shared.AssemblyInfo.cs" t="Include" />
+              <e p="Shared.AssemblyInfoInputs.cache" t="Include" />
+              <e p="Shared.assets.cache" t="Include" />
+              <e p="Shared.csproj.CoreCompileInputs.cache" t="Include" />
+              <e p="Shared.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="Shared.csprojAssemblyReference.cache" t="Include" />
+              <e p="Shared.dll" t="Include" />
+              <e p="Shared.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="project.assets.json" t="Include" />
+          <e p="project.nuget.cache" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+          <e p="rider.project.restore.info" t="Include" />
+          <e p="Shared.csproj.nuget.dgspec.json" t="Include" />
+          <e p="Shared.csproj.nuget.g.props" t="Include" />
+          <e p="Shared.csproj.nuget.g.targets" t="Include" />
+        </e>
+        <e p="ProposalModel.cs" t="Include" />
+        <e p="Shared.csproj" t="IncludeRecursive" />
+        <e p="StatisticsModel.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="all.min.css" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="Globo_logo.png" t="Include" />
+        </e>
+        <e p="js" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

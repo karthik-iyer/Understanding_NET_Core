@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Company />
+        <Product />
+        <AssemblyName>GlobomanticsWebApp</AssemblyName>
+        <Authors>KI</Authors>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\css" />
+      <Folder Include="wwwroot\js" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="Shared\Shared.csproj" />
+    </ItemGroup>
+
+</Project>

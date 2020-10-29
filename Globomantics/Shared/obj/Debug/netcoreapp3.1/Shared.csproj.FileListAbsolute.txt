@@ -1,0 +1,9 @@
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/bin/Debug/netcoreapp3.1/Shared.deps.json
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/bin/Debug/netcoreapp3.1/Shared.dll
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/bin/Debug/netcoreapp3.1/Shared.pdb
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.AssemblyInfo.cs
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.dll
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/Shared/obj/Debug/netcoreapp3.1/Shared.pdb

@@ -1,0 +1,7 @@
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/GlobomanticsWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.RazorAssemblyInfo.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.RazorAssemblyInfo.cs
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/Pluralsight courses/_NET_Core/Understanding_NET_Core/Globomantics/obj/Debug/netcoreapp3.1/Globomantics.AssemblyInfo.cs
